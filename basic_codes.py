@@ -97,6 +97,97 @@
 # Loops
 
 
+
+# Use For Loop When We Want to traverse in list , tuple, string
+
+# list = ("om","kalyani","nikhil","Tanmay")
+# print(list)
+# print(type(list))
+# for ele in list:
+#      print(ele)
+# else:
+#       print("END")
+
+
+
+# search character in string 
+
+
+# name = "vyankatesh"
+# for ele in name:
+#     print(ele)
+#     if(ele == 'k'):
+#         print("k found")
+#         break
+# else:
+#  print("Loop Ended")
+
+
+# search element in tuple using for loop 
+
+
+# tuple = (2,3,54,6,7,8,922)
+# x=int(input("Enter number :"))
+# i = 0
+
+# for ele in tuple:
+#     if(ele == x):
+#         print(x,"Found At",i)
+#     i +=1    
+
+
+
+# range ()
+
+
+# for el in range(0,100,3):   
+#     print(el)
+
+
+
+# sum of first n numbers using for loop
+
+
+# n =int(input("Enter No :"))
+
+# sum = 0
+# for i in range(n+1):
+#     sum = sum +i
+# print("Total Sum of",n,"is =",sum)    
+
+
+
+
+# Factorail of first n numbers
+
+# n =int(input("Enter No :"))
+
+# sum = 1
+# for i in range(1,n+1):
+#     sum = sum *i
+# print("Total Factorial of",n,"is =",sum)    
+
+
+
+
+
+
+
+# multiplication table using range function in for Loop
+# n = int(input("Enter No :"))
+# for i in range(1,11):
+#     print(n,"X",i,"=",n*i)
+
+
+
+
+# Use While Loop When We Want To Perform Operation like = 
+
+
+
+
+
+
 # name = input("Enter Your Name :")
 
 # value = int(input("Enter How Many Times You Want To Print Your Name :"))
